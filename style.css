@@ -201,6 +201,10 @@ main{
     line-height: 24px;
     tab-size: 4;
     cursor: pointer;
+    text-decoration: none;
+}
+.info a{
+    text-decoration: none;
 }
 .info p{
     font-size: 18px;
